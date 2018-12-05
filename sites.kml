@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sites" id="sites">
+	<SimpleField name="code" type="string"></SimpleField>
+</Schema>
+<Folder><name>sites</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">BQ7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.137279111232178,51.4946486813055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">BQ8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.137279111232178,51.4946486813055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">BT8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.217718908639377,51.5324054617809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">CD9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.129053205282516,51.5277066194645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">CP2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.60606,51.554064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">CR7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.117604507351392,51.3622305655403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">CR8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.127523,51.410039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">CR9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.096763846832385,51.3739530635378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">EI1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.265502631799754,51.5236078191481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">EI2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.380241031512669,51.5058699783726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">EI3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.254668101620372,51.5038527919816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">EI7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.392208459173292,51.5085164816243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">EN7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.02200720557,51.66864334727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">GN4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.06422246717047,51.4346627060562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">GN5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.00040739693585,51.4839072533485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">GN6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.010779623703256,51.4937746695818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">HF4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.224670007031603,51.5045625671557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">HG4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.125400278484885,51.5839769007709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">HS8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.284383168481281,51.500676298573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">HS9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.408732837243793,51.4473877655456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">IM1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1201947113171,51.5173675146177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">IT2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.042155099190035,51.5225294860844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">KT3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.302269,51.413691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">KT4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.281259,51.379312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">KT5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.29658478,51.412308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">KT6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.257029893767993,51.4355006647773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">LB6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.13186863879576,51.4282131429499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">LW3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.045670856666804,51.4811412184719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">LW4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.016068243204153,51.4646910611736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">ME1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.195929,51.40105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">ME2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.192230805042824,51.4161384794862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">ME9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.19589212,51.40162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">NB1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.116713103528546,51.5119701188277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">RB7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.082907474896495,51.5694843315237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">RG5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167763764582061,51.1658319616611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">RG6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.162410036780488,51.1612605001364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">RG7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.154121454400678,51.2924706381269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">RHA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.294665384985479,51.4656751682938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">RHE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.383441394330314,51.4467629979752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">RHF</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.383441394330314,51.4467629979752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">SK5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.059552893257342,51.4804994936467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">SK6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101527038274853,51.4931557048667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">ST7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.136339857220486,51.3858391292126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">ST8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1364178614733,51.3835652277943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">TH5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.033307388878,51.5405194915241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">TH6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.0129769309432,51.4891342634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">TK4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.357953197319231,51.4617571252861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WA7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.215871,51.463429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WA8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.215890144123119,51.4637206047191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WA9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.215824580947572,51.4650325059122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WAA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.141786953606306,51.4794395281222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WAB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.166524,51.429331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WAC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.166713485994806,51.4636903568111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WM5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.12162720332856,51.5119769825798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WM6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.152792701881935,51.5139287404213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WM8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.142438820740121,51.497066177578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WM9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.14424140916201,51.4977331829735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WMA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.147391757027028,51.4932327916861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WMB</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.13516388,51.516066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="code">WMC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.145657269364411,51.5168016452062</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
