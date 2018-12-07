@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>sites</name>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>BQ7 - Checked</name>
+      <description><![CDATA[description: BQ7 - Not moved<br>code: BQ7]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>BQ7 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>BQ7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.137279,51.494649,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BQ8 - Checked</name>
+      <description><![CDATA[description: BQ8 - Not moved<br>code: BQ8]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>BQ8 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>BQ8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.137279,51.494649,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BT8 - Checked</name>
+      <description><![CDATA[description: BT8 - Moved<br>code: BT8]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>BT8 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>BT8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.217656,51.5324492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CD9 - Checked</name>
+      <description><![CDATA[description: CD9 - Moved<br>code: CD9]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>CD9 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>CD9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1286882,51.528004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CP2 - Checked</name>
+      <description><![CDATA[description: CP2 - Moved<br>code: CP2]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>CP2 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>CP2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.6060613,51.5541324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CR7 - Proxy</name>
+      <description><![CDATA[description: CR7 - Moved<br>code: CR7]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>CR7 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>CR7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1178316,51.3621791,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CR8 - Checked</name>
+      <description><![CDATA[description: CR8 - Not moved<br>code: CR8]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>CR8 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>CR8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.127523,51.410039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CR9 - Checked</name>
+      <description><![CDATA[description: CR9 - Not moved<br>code: CR9]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>CR9 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>CR9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.096764,51.373953,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EI1 - Proxy</name>
+      <description><![CDATA[description: EI1 - Moved<br>code: EI1]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>EI1 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>EI1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2655066,51.5236108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EI2 - Checked</name>
+      <description><![CDATA[description: EI2 - Not moved<br>code: EI2]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>EI2 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>EI2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.380241,51.50587,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EI3 - Checked</name>
+      <description><![CDATA[description: EI3 - Moved<br>code: EI3]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>EI3 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>EI3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2546345,51.5038572,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EI7 - Checked</name>
+      <description><![CDATA[description: EI7 - Not moved<br>code: EI7]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>EI7 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>EI7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.392208,51.508516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EN7 - Checked</name>
+      <description><![CDATA[description: EN7 - Moved<br>code: EN7]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>EN7 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>EN7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0219855,51.668559,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GN4 - Proxy</name>
+      <description><![CDATA[description: GN4 - Moved<br>code: GN4]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>GN4 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>GN4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0643205,51.4346617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GN5 - Checked</name>
+      <description><![CDATA[description: GN5 - Moved<br>code: GN5]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>GN5 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>GN5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0007584,51.4839838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GN6 - Checked</name>
+      <description><![CDATA[description: GN6 - Not moved<br>code: GN6]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>GN6 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>GN6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.01078,51.493775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HF4 - Checked</name>
+      <description><![CDATA[description: HF4 - Moved<br>code: HF4]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>HF4 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>HF4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2246076,51.5045647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HG4 - Checked</name>
+      <description><![CDATA[description: HG4 - Moved<br>code: HG4]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>HG4 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>HG4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1254228,51.5840524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HS8 - Proxy</name>
+      <description><![CDATA[description: HS8 - Moved<br>code: HS8]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>HS8 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>HS8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2843763,51.5006964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HS9 - Checked</name>
+      <description><![CDATA[description: HS9 - Not moved<br>code: HS9]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>HS9 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>HS9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.408733,51.447388,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IM1 - Checked</name>
+      <description><![CDATA[description: IM1 - Moved<br>code: IM1]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>IM1 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>IM1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.120197,51.5174732,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IT2 - Checked</name>
+      <description><![CDATA[description: IT2 - Not moved<br>code: IT2]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>IT2 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>IT2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.042155,51.522529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KT3 - Checked</name>
+      <description><![CDATA[description: KT3 - Not moved<br>code: KT3]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>KT3 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>KT3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.302269,51.413691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KT4 - Checked</name>
+      <description><![CDATA[description: KT4 - Moved<br>code: KT4]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>KT4 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>KT4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.281247,51.3793643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KT5 - Proxy</name>
+      <description><![CDATA[description: KT5 - Not moved<br>code: KT5]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>KT5 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>KT5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2966172,51.412272,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KT6 - Checked</name>
+      <description><![CDATA[description: KT6 - Not moved<br>code: KT6]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>KT6 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>KT6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.25703,51.435501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LB6 - Checked</name>
+      <description><![CDATA[description: LB6 - Not moved<br>code: LB6]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>LB6 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>LB6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.131869,51.428213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LW3 - Checked</name>
+      <description><![CDATA[description: LW3 - Moved<br>code: LW3]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>LW3 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>LW3</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0457609,51.4811823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LW4 - Checked</name>
+      <description><![CDATA[description: LW4 - Moved<br>code: LW4]]></description>
+      <styleUrl>#icon-1899-F57C00</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>LW4 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>LW4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0160447,51.4647081,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ME1 - Checked</name>
+      <description><![CDATA[description: ME1 - Not moved<br>code: ME1]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>ME1 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>ME1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.195929,51.40105,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ME2 - Proxy</name>
+      <description><![CDATA[description: ME2 - Moved<br>code: ME2]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>ME2 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>ME2</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1924114,51.4161719,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ME9 - Checked</name>
+      <description><![CDATA[description: ME9 - Not moved<br>code: ME9]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>ME9 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>ME9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.195892,51.40162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NB1 - Proxy</name>
+      <description><![CDATA[description: NB1 - Moved<br>code: NB1]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>NB1 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>NB1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1167539,51.5119984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RB7 - Checked</name>
+      <description><![CDATA[description: RB7 - Moved<br>code: RB7]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>RB7 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>RB7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0829593,51.5695007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RG5 - Checked</name>
+      <description><![CDATA[description: RG5 - Moved<br>code: RG5]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>RG5 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>RG5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1677144,51.1658631,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RG6 - Checked</name>
+      <description><![CDATA[description: RG6 - Moved<br>code: RG6]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>RG6 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>RG6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1623336,51.1612858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RG7 - Checked</name>
+      <description><![CDATA[description: RG7 - Not moved<br>code: RG7]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>RG7 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>RG7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.154121,51.292471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RHA - Checked</name>
+      <description><![CDATA[description: RHA - Moved<br>code: RHA]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>RHA - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>RHA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2945074,51.4657782,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RHE - Checked</name>
+      <description><![CDATA[description: RHE - Moved<br>code: RHE]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>RHE - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>RHE</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.383272,51.4465139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RHF - Checked</name>
+      <description><![CDATA[description: RHF - Not moved<br>code: RHF]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>RHF - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>RHF</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.3832854,51.4465031,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SK5 - Checked</name>
+      <description><![CDATA[description: SK5 - Moved<br>code: SK5]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>SK5 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>SK5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0594055,51.4804898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SK6 - Checked</name>
+      <description><![CDATA[description: SK6 - Moved<br>code: SK6]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>SK6 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>SK6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1015632,51.4932111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ST7 - Checked</name>
+      <description><![CDATA[description: ST7 - Moved<br>code: ST7]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>ST7 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>ST7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1360698,51.3857938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ST8 - Checked</name>
+      <description><![CDATA[description: ST8 - Moved<br>code: ST8]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>ST8 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>ST8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.136996,51.3830787,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TH5 - Checked</name>
+      <description><![CDATA[description: TH5 - Moved<br>code: TH5]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>TH5 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>TH5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0334599,51.540514,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TH6 - Checked</name>
+      <description><![CDATA[description: TH6 - Not moved<br>code: TH6]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>TH6 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>TH6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.012977,51.489134,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TK4 - Checked</name>
+      <description><![CDATA[description: TK4 - Moved<br>code: TK4]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>TK4 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>TK4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.3580361,51.4617895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA7 - Checked</name>
+      <description><![CDATA[description: WA7 - Moved<br>code: WA7]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WA7 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>WA7</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2158127,51.4634265,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA8 - Checked</name>
+      <description><![CDATA[description: WA8 - Moved<br>code: WA8]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WA8 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>WA8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2158618,51.4634152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA9 - Checked</name>
+      <description><![CDATA[description: WA9 - Moved<br>code: WA9]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WA9 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>WA9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2156158,51.4648442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WAA - Checked</name>
+      <description><![CDATA[description: WAA - Not moved<br>code: WAA]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WAA - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>WAA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.141787,51.47944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WAB - Checked</name>
+      <description><![CDATA[description: WAB - Moved<br>code: WAB]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WAB - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>WAB</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1664421,51.4293586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WAC - Checked</name>
+      <description><![CDATA[description: WAC - Moved<br>code: WAC]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WAC - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>WAC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1669665,51.463756,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WM5 - Checked</name>
+      <description><![CDATA[description: WM5 - Moved<br>code: WM5]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WM5 - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>WM5</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1217021,51.5120805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WM6 - Checked</name>
+      <description><![CDATA[description: WM6 - Not moved<br>code: WM6]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WM6 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>WM6</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.152793,51.513929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WM8 - Checked</name>
+      <description><![CDATA[description: WM8 - Not moved<br>code: WM8]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WM8 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>WM8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.142439,51.497066,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WM9 - Checked</name>
+      <description><![CDATA[description: WM9 - Not moved<br>code: WM9]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WM9 - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>WM9</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.144241,51.497733,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WMA - Proxy</name>
+      <description><![CDATA[description: WMA - Moved<br>code: WMA]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WMA - Moved</value>
+        </Data>
+        <Data name="code">
+          <value>WMA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1475292,51.4932937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WMB - Checked</name>
+      <description><![CDATA[description: WMB - Not moved<br>code: WMB]]></description>
+      <styleUrl>#icon-1899-097138</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WMB - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>WMB</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.135164,51.516066,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WMC - Checked</name>
+      <description><![CDATA[description: WMC - Not moved<br>code: WMC]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>WMC - Not moved</value>
+        </Data>
+        <Data name="code">
+          <value>WMC</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.145657,51.516802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

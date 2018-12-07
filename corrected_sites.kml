@@ -2,42 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>sites</name>
-    <Style id="icon-1899-0288D1-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="icon-1899-097138-normal">
       <IconStyle>
         <color>ff387109</color>
@@ -218,6 +182,42 @@
         <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-1899-FF5252-normal">
       <IconStyle>
         <color>ff5252ff</color>
@@ -293,7 +293,7 @@
     <Placemark>
       <name>BT8</name>
       <description><![CDATA[description: BT8 - Moved<br>code: BT8]]></description>
-      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>BT8 - Moved</value>
@@ -347,7 +347,7 @@
     <Placemark>
       <name>CR7</name>
       <description><![CDATA[description: CR7 - Moved<br>code: CR7]]></description>
-      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <styleUrl>#icon-1899-E65100</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>CR7 - Moved</value>
@@ -401,7 +401,7 @@
     <Placemark>
       <name>EI1</name>
       <description><![CDATA[description: EI1 - Moved<br>code: EI1]]></description>
-      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <styleUrl>#icon-1899-E65100</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>EI1 - Moved</value>
@@ -940,11 +940,11 @@
     </Placemark>
     <Placemark>
       <name>RHE</name>
-      <description><![CDATA[description: <br>code: RHE]]></description>
-      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <description><![CDATA[description: RHE - Moved<br>code: RHE]]></description>
+      <styleUrl>#icon-1899-558B2F</styleUrl>
       <ExtendedData>
         <Data name="description">
-          <value/>
+          <value>RHE - Moved</value>
         </Data>
         <Data name="code">
           <value>RHE</value>
@@ -952,7 +952,7 @@
       </ExtendedData>
       <Point>
         <coordinates>
-          -0.383441,51.446763,0
+          -0.383272,51.4465139,0
         </coordinates>
       </Point>
     </Placemark>
@@ -970,7 +970,7 @@
       </ExtendedData>
       <Point>
         <coordinates>
-          -0.383441,51.446763,0
+          -0.3832854,51.4465031,0
         </coordinates>
       </Point>
     </Placemark>
@@ -1049,7 +1049,7 @@
     <Placemark>
       <name>TH5</name>
       <description><![CDATA[description: TH5 - Moved<br>code: TH5]]></description>
-      <styleUrl>#icon-1899-880E4F</styleUrl>
+      <styleUrl>#icon-1899-E65100</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>TH5 - Moved</value>
