@@ -1,0 +1,61 @@
+Name,Description,x,y,code
+BQ7 - Checked,description: BQ7 - Not moved<br>code: BQ7,548465.0440237022,179466.08555026143,BQ7
+BQ8 - Checked,description: BQ8 - Not moved<br>code: BQ8,548465.0440237022,179466.08555026143,BQ8
+BT8 - Checked,description: BT8 - Moved<br>code: BT8,523725.28844715306,183010.0078955402,BT8
+CD9 - Checked,description: CD9 - Moved<br>code: CD9,529908.5185576552,182669.75632415543,CD9
+CP2 - Checked,description: CP2 - Moved<br>code: CP2,580767.3530286418,187134.5804640418,CP2
+CR7 - Proxy,description: CR7 - Moved<br>code: CR7,531135.3839271634,164248.97598296835,CR7
+CR8 - Checked,description: CR8 - Not moved<br>code: CR8,530324.777812264,169553.7904283515,CR8
+CR9 - Checked,description: CR9 - Not moved<br>code: CR9,532568.0362999043,165596.09260407434,CR9
+EI1 - Proxy,description: EI1 - Moved<br>code: EI1,520429.7593557165,181947.36642366392,EI1
+EI2 - Checked,description: EI2 - Not moved<br>code: EI2,512514.04169211944,179792.05158898677,EI2
+EI3 - Checked,description: EI3 - Moved<br>code: EI3,521236.3630886506,179768.59503096744,EI3
+EI7 - Checked,description: EI7 - Not moved<br>code: EI7,511677.0722940045,180067.99529014155,EI7
+EN7 - Checked,description: EN7 - Moved<br>code: EN7,536886.8037396583,198494.64354413503,EN7
+GN4 - Proxy,description: GN4 - Moved<br>code: GN4,543588.8677239207,172650.15481137246,GN4
+GN5 - Checked,description: GN5 - Moved<br>code: GN5,539021.1867061121,178012.23359091702,GN5
+GN6 - Checked,description: GN6 - Not moved<br>code: GN6,539687.0746593294,179120.08902271034,GN6
+HF4 - Checked,description: HF4 - Moved<br>code: HF4,523318.368852752,179897.3910067273,HF4
+HG4 - Checked,description: HG4 - Moved<br>code: HG4,529975.2705523749,188908.3725946336,HG4
+HS8 - Proxy,description: HS8 - Moved<br>code: HS8,519180.46633525885,179368.29722343344,HS8
+HS9 - Checked,description: HS9 - Not moved<br>code: HS9,510678.02694536734,173245.0983454362,HS9
+IM1 - Checked,description: IM1 - Moved<br>code: IM1,530527.5855170072,181513.79156162887,IM1
+IT2 - Checked,description: IT2 - Not moved<br>code: IT2,535927.0565289988,182217.98664273007,IT2
+KT3 - Checked,description: KT3 - Not moved<br>code: KT3,518162.854493368,169663.91486990429,KT3
+KT4 - Checked,description: KT4 - Moved<br>code: KT4,519714.2025119504,165880.73567883734,KT4
+KT5 - Proxy,description: KT5 - Not moved<br>code: KT5,518559.5427238848,169515.23564429546,KT5
+KT6 - Checked,description: KT6 - Not moved<br>code: KT6,521251.034424818,172163.1135034567,KT6
+LB6 - Checked,description: LB6 - Not moved<br>code: LB6,529971.0211870708,171567.06200708437,LB6
+LW3 - Checked,description: LW3 - Moved<br>code: LW3,535799.6740577214,177613.45840071468,LW3
+LW4 - Checked,description: LW4 - Moved<br>code: LW4,537912.6328128235,175837.00232897513,LW4
+ME1 - Checked,description: ME1 - Not moved<br>code: ME1,525592.1933873696,168434.86753611494,ME1
+ME2 - Proxy,description: ME2 - Moved<br>code: ME2,525795.395108822,170122.49042090197,ME2
+ME9 - Checked,description: ME9 - Not moved<br>code: ME9,525593.2069025172,168498.31633115624,ME9
+NB1 - Proxy,description: NB1 - Moved<br>code: NB1,530782.1345718333,180911.11729055044,NB1
+RB7 - Checked,description: RB7 - Moved<br>code: RB7,544457.5909717618,187680.94359099527,RB7
+RG5 - Checked,description: RG5 - Moved<br>code: RG5,528207.4099072843,142330.73236089153,RG5
+RG6 - Checked,description: RG6 - Moved<br>code: RG6,528596.3192578248,141831.1324904739,RG6
+RG7 - Checked,description: RG7 - Not moved<br>code: RG7,528804.075965575,156433.17392356833,RG7
+RHA - Checked,description: RHA - Moved<br>code: RHA,518567.7485645794,175468.7777923803,RHA
+RHE - Checked,description: RHE - Moved<br>code: RHE,512449.4219195978,173186.63126680814,RHE
+RHF - Checked,description: RHF - Not moved<br>code: RHF,512448.51726036204,173185.40969531942,RHF
+SK5 - Checked,description: SK5 - Moved<br>code: SK5,534854.3106450968,177511.2506034242,SK5
+SK6 - Checked,description: SK6 - Moved<br>code: SK6,531890.3766964069,178849.14753506827,SK6
+ST7 - Checked,description: ST7 - Moved<br>code: ST7,529798.9644936608,166842.53248424915,ST7
+ST8 - Checked,description: ST8 - Moved<br>code: ST8,529742.1917072971,166538.9713657188,ST8
+TH5 - Checked,description: TH5 - Moved<br>code: TH5,536476.4891175873,184234.13833906897,TH5
+TH6 - Checked,description: TH6 - Not moved<br>code: TH6,538051.9969160492,178558.96960562438,TH6
+TK4 - Checked,description: TK4 - Moved<br>code: TK4,563905.7008652153,176282.84708278137,TK4
+WA7 - Checked,description: WA7 - Moved<br>code: WA7,524040.21998177445,175337.49039983167,WA7
+WA8 - Checked,description: WA8 - Moved<br>code: WA8,524036.8399700228,175336.15070715093,WA8
+WA9 - Checked,description: WA9 - Moved<br>code: WA9,524050.05597447103,175495.47738568997,WA9
+WAA - Checked,description: WAA - Not moved<br>code: WAA,529137.0410943627,177246.11063233623,WAA
+WAB - Checked,description: WAB - Moved<br>code: WAB,527564.4587117124,171633.74496803002,WAB
+WAC - Checked,description: WAC - Moved<br>code: WAC,527432.2874389566,175457.92446037324,WAC
+WM5 - Checked,description: WM5 - Moved<br>code: WM5,530438.5537744267,180911.42330930213,WM5
+WM6 - Checked,description: WM6 - Not moved<br>code: WM6,528276.0239591633,181062.0729681342,WM6
+WM8 - Checked,description: WM8 - Not moved<br>code: WM8,529042.0336927827,179205.03118451883,WM8
+WM9 - Checked,description: WM9 - Not moved<br>code: WM9,528915.0745041585,179276.0313668247,WM9
+WMA - Proxy,description: WMA - Moved<br>code: WMA,528699.3332359851,178776.58456689736,WMA
+WMB - Checked,description: WMB - Not moved<br>code: WMB,529493.1641857658,181330.7373163515,WMB
+WMC - Checked,description: WMC - Not moved<br>code: WMC,528763.0632447675,181394.08336916182,WMC

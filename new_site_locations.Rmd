@@ -11,27 +11,27 @@ knit: (function(inputFile, encoding) {
 ```{r setup, include=F}
 library(tidyverse)
 library(sf)
+library(mapview)
+library(leaflet)
 ```
 
 ```{r import_site_data}
-openair_sites   <- read_csv('david_sites_witH_locations.csv', col_names = T, col_types = cols())
-openair_sites   <- st_as_sf(openair_sites, coords = c('x', 'y')) %>% st_set_crs(4326) %>% st_transform(27700)
+openair_sites       <- read_csv('david_sites_witH_locations.csv', col_names = T, col_types = cols())
+openair_sites       <- st_as_sf(openair_sites, coords = c('x', 'y')) %>% st_set_crs(4326)
+openair_sites$code  <- as.factor(openair_sites$code)
 
-corrected_sites <- read_sf('corrected_sites.kml', quiet=T) %>% st_transform(27700)
-  
+corrected_sites     <- read_sf('true_locations_after_correction_from_openair_then_added_proxy.kml', quiet=T)
+
+corrected_sites     <- st_transform(corrected_sites, 27700)
+
+corrected_sites$x   <- st_coordinates(corrected_sites)[,1]
+corrected_sites$y   <- st_coordinates(corrected_sites)[,2]
+
+corrected_sites$code <- substr(corrected_sites$Name, 1, 3)
+
+corrected_sites$geometry  <- NULL
+
+write_csv(corrected_sites, 'final_corrected_sites.csv')
+
 ```
-
-```{r import_roads_10m_points}
-
-ten_points   <- read_csv('london_10m_points.csv', col_names = T, col_types = cols())
-
-ten_points   <- st_as_sf(ten_points, coords = c('Easting', 'Northing')) %>% st_set_crs(27700)
-
-ten_points   <- st_join(ten_points, st_buffer(corrected_sites,100))
-
-st_write(ten_points[!is.na(ten_points$Name),c('Multiplier')], 'ten_m_points.kml', delete_dsn = T)
-
-```
-
-New v. old site locations
 
